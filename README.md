@@ -13,10 +13,10 @@ Do the following to run the project:
 
 # Important Note
 
-1-Change the endpoint path url according to your own ipv4 address as it may introduce axios network error if u you don't ( Both local host and the emulator/device should be running on the same network)
+-Change the endpoint path url according to your own ipv4 address as it may introduce axios network error if u you don't ( Both local host and the emulator/device should be running on the same network)
 
-2-Edit the connection string for your own mongodb atlas in node api file for successfull db connection.
+-Edit the connection string for your own mongodb atlas in node api file for successfull db connection.
 
-3-If any dependencies are deprecated use command to update if needed: npm install -g 
+-If any dependencies are deprecated use command to update if needed: npm install -g 
 
-4-Can be run on physical device as well as emulator( physical device prefered for real time location compatiblity)
+-Can be run on physical device as well as emulator( physical device prefered for real time location compatiblity)

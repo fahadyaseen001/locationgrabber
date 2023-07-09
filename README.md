@@ -8,6 +8,8 @@ Open Node Api file & run the server on local host using command: node server.js
 
 Open Stickersmasher file & run the react native expo cli using command : npm run start
 
+Your MongoDb cluster should be in active state.
+
 # Important Note
 
 Change the endpoint path url according to your own ipv4 address as it may introduce axios network error if u you don't ( Both local host and the emulator/device should be running on the same network)

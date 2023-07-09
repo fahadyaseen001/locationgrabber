@@ -5,6 +5,7 @@ A live location data gather app to generate dataset using MERN stack
 Do the following to run the project:
 
 Open Node Api file & run the server on local host using command: node server.js
+
 Open Stickersmasher file & run the react native expo cli using command : npm run start
 
 # Important Note

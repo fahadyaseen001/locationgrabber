@@ -19,4 +19,4 @@ Edit the connection string for your own mongodb atlas in node api file for succe
 
 if any dependencies are deprecated use command to update if needed: npm install -g 
 
-Can be run on physical device as well as emulator( physical device prefrred for live location compatiblity)
+Can be run on physical device as well as emulator( physical device prefered for real time location compatiblity)

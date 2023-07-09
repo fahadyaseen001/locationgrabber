@@ -1,5 +1,5 @@
 # locationgrabber
-A live location data gather app to generate dataset using MERN stack
+A live location data gather app module to generate dataset using MERN stack
 
 # To run the project 
 Do the following to run the project:

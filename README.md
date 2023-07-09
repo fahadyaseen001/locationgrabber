@@ -16,3 +16,5 @@ Change the endpoint path url according to your own ipv4 address as it may introd
 
 Edit the connection string for your own mongodb atlas in node api file for successfull db connection.
 
+if any dependencies are deprecated use command to update if needed: npm install -g 
+

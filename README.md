@@ -20,3 +20,7 @@ Do the following to run the project:
 -If any dependencies are deprecated use command to update if needed: npm install -g 
 
 -Can be run on physical device as well as emulator( physical device prefered for real time location compatiblity)
+
+# Working Demo 
+
+![ezgif-2-2fdaa50a55](https://github.com/Shrekpepsi/locationgrabber/assets/107950320/ec87d110-bc5e-4297-a9a4-857cc55be348)

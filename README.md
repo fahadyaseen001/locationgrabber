@@ -23,4 +23,5 @@ Do the following to run the project:
 
 # Working Demo
 
+
 ![ezgif-2-ec46618cdc](https://github.com/Shrekpepsi/locationgrabber/assets/107950320/13bbadb0-1f37-4ac6-afa0-6d5a67973a36)

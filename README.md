@@ -1,3 +1,7 @@
+
+![locationgrabber](https://github.com/Shrekpepsi/locationgrabber/assets/107950320/ec43bbd0-8cd3-4cad-947b-992c70627a34)
+
+
 # locationgrabber
 A live location data gather app module to generate dataset using MERN stack
 

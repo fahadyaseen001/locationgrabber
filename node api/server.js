@@ -6,8 +6,8 @@ const port = 3000;
 
 app.use(express.json());
 
-// MongoDB Atlas connection string
-const uri = "mongodb+srv://fahadyaseen102:fahad12345@cluster0.vxygmmh.mongodb.net/?retryWrites=true&w=majority";
+// MongoDB Atlas connection string (edit it according to your own db connection string)
+const uri = "mongodb+srv://fahadyaseen102:<password>@cluster0.vxygmmh.mongodb.net/?retryWrites=true&w=majority";
 const client = new MongoClient(uri);
 
 async function connectToDatabase() {
